@@ -1,7 +1,5 @@
-api-gateway-service/.env
-user-service/.env
-customer-service/.env
+*.env
 
-*/.DS_Store
+*.DS_Store
 
-*/cmd/app/.air.toml
+*/cmd/app/.air.toml.DS_Store
