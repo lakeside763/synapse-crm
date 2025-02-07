@@ -1,5 +1,4 @@
-*.env
-
-*.DS_Store
-
+*/.env
+*/.DS_Store
 */cmd/app/.air.toml.DS_Store
+*.DS_Store
