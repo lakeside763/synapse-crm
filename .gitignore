@@ -1,3 +1,7 @@
 api-gateway-service/.env
 user-service/.env
 customer-service/.env
+
+*/.DS_Store
+
+*/cmd/app/.air.toml
