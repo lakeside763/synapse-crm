@@ -1,4 +1,4 @@
-## Synapse-crm
+## Synapse-CRM
 
 ### Author
 - By Olalekan Idowu
